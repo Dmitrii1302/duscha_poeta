@@ -1,0 +1,58 @@
+body {
+    margin:0px;
+    padding:0px;
+    font: 14px 'Verdana';
+}
+ul {
+    list-style: none;
+    display: block;
+    margin:0px;
+    padding:0px;
+}
+ul:after {
+    display: block;
+    float: none;
+    content: ' ';
+    clear: both;
+}
+ul.mmenuu > li {
+    float: left;
+    position: relative;
+    width: 20%;
+}
+ul.mmenuu > li > a {
+    display: block;
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+    background-color: #800000;
+    text-align: center;
+}
+ul.mmenuu > li > a:hover {
+    background-color: #eb9316;
+}
+ul.ssubmenuu {
+    position: absolute;
+    width: 100%;
+    top: 37px;
+    left:0px;
+    display: none;
+    background-color: white;
+}
+ul.ssubmenuu > li {
+    display: block;
+}
+ul.ssubmenuu > li > a {
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    color: #ffffff;
+    background: url('../img/Fon2.jpg');
+    text-align: center;
+}
+ul.ssubmenuu > li > a:hover {
+    text-decoration: underline;
+}
+ul.mmenuu > li:hover > ul.ssubmenuu {
+    display: block;
+}
