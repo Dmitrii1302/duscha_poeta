@@ -20,7 +20,7 @@ ul:after {
 ul.mmenuu > li {
     float: left;
     position: relative;
-    width: 25%;
+    width: 20%;
 }
 ul.mmenuu > li > a {
     display: block;
