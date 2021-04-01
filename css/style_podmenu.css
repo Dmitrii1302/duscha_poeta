@@ -2,6 +2,9 @@ body {
     margin:0px;
     padding:0px;
     font: 14px 'Verdana';
+    width: 100%;
+    height: 100%;
+    background-size: 100% 100%;
 }
 ul {
     list-style: none;
@@ -18,12 +21,12 @@ ul:after {
 ul.mmenuu > li {
     float: left;
     position: relative;
-    width: 20%;
+    width: 25%;
 }
 ul.mmenuu > li > a {
     display: block;
     color: #fff;
-    padding: 10px;
+    padding: 12%;
     text-decoration: none;
     background-color: #800000;
     text-align: center;
@@ -34,7 +37,7 @@ ul.mmenuu > li > a:hover {
 ul.ssubmenuu {
     position: absolute;
     width: 100%;
-    top: 37px;
+    top: 12;
     left:0px;
     display: none;
     background-color: white;
@@ -45,7 +48,7 @@ ul.ssubmenuu > li {
 ul.ssubmenuu > li > a {
     display: block;
     text-decoration: none;
-    padding: 10px;
+    padding: 12%;
     color: #ffffff;
     background: url('../img/Fon2.jpg');
     text-align: center;
