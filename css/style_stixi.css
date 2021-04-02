@@ -50,7 +50,7 @@ ul.ssubmenuu > li > a {
     text-decoration: none;
     padding: 12%;
     color: #ffffff;
-    background: url('../img/Fon2.jpg');
+   background-color: #800000;
     text-align: center;
 }
 ul.ssubmenuu > li > a:hover {
