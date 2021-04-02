@@ -64,7 +64,7 @@ ul.mmenuu > li:hover > ul.ssubmenuu {
     color:#eb9316;
     margin-left: 3%;}
 .Zagolovok  {
-    width: 15%;
+    width: 40%;
     height: 5%;
     color:#8b008b;
     background: #e0ffff;
@@ -75,5 +75,5 @@ ul.mmenuu > li:hover > ul.ssubmenuu {
     text-decoration: none;
     color:#eb9316;
     margin-left: 3%;
-    width: 15%;
+    width: 40%;
 }
