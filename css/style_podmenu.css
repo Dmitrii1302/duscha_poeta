@@ -73,7 +73,7 @@ ul.mmenuu > li:hover > ul.ssubmenuu {
 .Zagolovok  {
     width: 90%;
     color:#8b008b;
-    background: #e0ffff;
+    background-color: #e0ffff;
     font: 18px 'Times New Roman';
     margin-left: 1%;
 }
