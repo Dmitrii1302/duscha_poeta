@@ -59,3 +59,21 @@ ul.ssubmenuu > li > a:hover {
 ul.mmenuu > li:hover > ul.ssubmenuu {
     display: block;
 }
+.Ssilka > a {
+    text-decoration: none;
+    color:#eb9316;
+    margin-left: 3%;}
+.Zagolovok  {
+    width: 15%;
+    height: 5%;
+    color:#8b008b;
+    background: #e0ffff;
+    font: 18px 'Times New Roman';
+    margin-left: 1%;
+}
+.Silka {
+    text-decoration: none;
+    color:#eb9316;
+    margin-left: 3%;
+    width: 15%;
+}
