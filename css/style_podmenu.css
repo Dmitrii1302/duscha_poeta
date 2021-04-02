@@ -63,21 +63,18 @@ ul.mmenuu > li:hover > ul.ssubmenuu {
     text-decoration: none;
     margin-left: 3%;
     color: #8b0000;
-    margin-left: 1%;
-    font: 14px 'Times New Roman';
 }
 .Ssilka {
     background-color: #dda0dd;
     margin-left: 1%;
-    width: 15%;
+    width: 90%;
     text-align: center;
 }
 .Zagolovok  {
     width: 90%;
-    height: 5%;
     color:#8b008b;
-    background-color: #e0ffff;
-    font: 14px 'Times New Roman';
+    background: #e0ffff;
+    font: 18px 'Times New Roman';
     margin-left: 1%;
 }
 .Silka {
@@ -85,5 +82,4 @@ ul.mmenuu > li:hover > ul.ssubmenuu {
     color:#eb9316;
     margin-left: 3%;
     width: 90%;
-     font: 14px 'Times New Roman';
 }
