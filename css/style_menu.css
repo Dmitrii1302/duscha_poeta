@@ -28,8 +28,9 @@ ul.mmenuu > li > a {
     color: #fff;
     padding: 12%;
     text-decoration: none;
-    background-color: #800000;
+    background-color: #008b8b;
     text-align: center;
+    border-radius: 1%;
 }
 ul.mmenuu > li > a:hover {
     background-color: #eb9316;
@@ -40,7 +41,7 @@ ul.ssubmenuu {
     top: 12;
     left:0px;
     display: none;
-    background-color: red;
+    background-color: white;
 }
 ul.ssubmenuu > li {
     display: block;
@@ -50,12 +51,26 @@ ul.ssubmenuu > li > a {
     text-decoration: none;
     padding: 12%;
     color: #ffffff;
-    background-color: #800000;
+    background-color: #008b8b;
     text-align: center;
+    left: 1%;
+    font: 16px 'Times New Roman';
 }
 ul.ssubmenuu > li > a:hover {
     text-decoration: underline;
 }
 ul.mmenuu > li:hover > ul.ssubmenuu {
     display: block;
+}
+pre {
+    text-align: center;
+    left: 1%;
+    background-color: #808000;
+    font: 16px 'Times New Roman';
+}
+p {
+   text-align: center;
+    left: 1%; 
+    font: 18px 'Times New Roman';
+    background-color: #daa520;
 }
