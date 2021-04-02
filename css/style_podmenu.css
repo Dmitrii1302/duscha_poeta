@@ -62,18 +62,21 @@ ul.mmenuu > li:hover > ul.ssubmenuu {
 .Ssilka > a {
     text-decoration: none;
     color:#eb9316;
-    margin-left: 3%;}
+    margin-left: 3%;
+    font: 14px 'Times New Roman';
+}
 .Zagolovok  {
-    width: 40%;
+    width: 90%;
     height: 5%;
     color:#8b008b;
     background: #e0ffff;
-    font: 18px 'Times New Roman';
+    font: 14px 'Times New Roman';
     margin-left: 1%;
 }
 .Silka {
     text-decoration: none;
     color:#eb9316;
     margin-left: 3%;
-    width: 40%;
+    width: 90%;
+     font: 14px 'Times New Roman';
 }
