@@ -29,8 +29,8 @@ ul.mmenuu > li > a {
     padding: 12%;
     text-decoration: none;
     background-color: #008b8b;
+    font: 14px 'Times New Roman'; 
     text-align: center;
-    border-radius: 1%;
 }
 ul.mmenuu > li > a:hover {
     background-color: #eb9316;
