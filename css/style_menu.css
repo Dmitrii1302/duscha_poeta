@@ -68,9 +68,24 @@ pre {
     background-color: #808000;
     font: 16px 'Times New Roman';
 }
-p {
-   text-align: center;
-    left: 1%; 
-    font: 18px 'Times New Roman';
-    background-color: #daa520;
+p.Ssika > a {
+    text-decoration: none;
+    margin-left: 3%;
+    color: #8b0000;
+    font: 20px 'Times New Roman';
+}
+.Zagolovok  {
+    width: 15%;
+    height: 5%;
+    color:#8b008b;
+    background: #e0ffff;
+    font: 20px 'Times New Roman';
+    margin-left: 1%;
+}
+.Silka {
+    text-decoration: none;
+    color: #8b0000;
+    margin-left: 3%;
+    width: 15%;
+    font: 20px 'Times New Roman';
 }
