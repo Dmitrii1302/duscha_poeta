@@ -54,7 +54,7 @@ ul.ssubmenuu > li > a {
     background-color: #008b8b;
     text-align: center;
     left: 1%;
-    font: 16px 'Times New Roman';
+    font: 14px 'Times New Roman';
 }
 ul.ssubmenuu > li > a:hover {
     text-decoration: underline;
