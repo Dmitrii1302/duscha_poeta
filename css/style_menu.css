@@ -72,14 +72,14 @@ p.Ssika > a {
     text-decoration: none;
     margin-left: 3%;
     color: #8b0000;
-    font: 20px 'Times New Roman';
+    font: 10px 'Times New Roman';
 }
 .Zagolovok  {
     width: 15%;
     height: 5%;
     color:#8b008b;
     background: #e0ffff;
-    font: 20px 'Times New Roman';
+    font: 10px 'Times New Roman';
     margin-left: 1%;
 }
 .Silka {
@@ -87,5 +87,6 @@ p.Ssika > a {
     color: #8b0000;
     margin-left: 3%;
     width: 15%;
-    font: 20px 'Times New Roman';
+    font: 10px 'Times New Roman';
 }
+
